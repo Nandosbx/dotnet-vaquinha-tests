@@ -18,7 +18,7 @@ namespace Vaquinha.Tests.Common.Fixtures
         {
             var faker = new Faker<DoacaoViewModel>("pt_BR");
 
-            const int MIN_VALUE = 1;
+            const int MIN_VALUE = 5;
             const int MAX_VALUE = 500;
             const int DECIMALS = 2;
 
